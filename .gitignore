@@ -1,1 +1,8 @@
-0x00-ES6_basic/node_modules/
+
+#ignore node_module
+**/node_modules
+
+#ignore logs
+**/npm-debug.log
+**/yarn-debug.log
+**/yarn-error.log
